@@ -1,1 +1,3 @@
-Due to the outstanding material characteristic of depleated Uranium(DU), it is widely used in military equipments and ammunitions and the demand of it apparantly will only increase. However, the toxic and radiation contanmination caused through the production process and unproper storage will ultimately combat against further production and usage of DU, and such conflict must be resolved to further the application of said material.
+Due to the outstanding material characteristic of depleated Uranium(DU), it is widely used in military equipments and ammunitions and the demand of it apparantly will only increase. However, the radiation contanmination caused by the production process and unproper storage will ultimately combat against further production and usage of DU. Such conflicts must be resolved to further the application of said material.
+
+# what are its outstanding characteristics?
